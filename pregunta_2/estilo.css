@@ -1,0 +1,16 @@
+.titulo{
+    color:rgb(21, 170, 54);
+    text-align: center;
+}
+.navbar{
+    background-color: rgb(21, 170, 54);
+}
+
+.btn1{
+    background-color:rgb(21, 170, 54);
+    color: #fff;
+}
+.btn1:hover{
+    background-color: aquamarine;
+    color: #000;
+}
